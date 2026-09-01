@@ -6,7 +6,7 @@ import os
 import asyncio
 from pathlib import Path
 
-TOKEN = "MTU0NDA5NTY0MDA5MzU4OTYwNQ.GjvW6I.4G5U3d7HPmkAZhNvHNTnuq0t0JxFWBtZPO---8"
+TOKEN = "TOKENHERE"
 
 DOWNLOAD_FOLDER = Path("downloads")
 
